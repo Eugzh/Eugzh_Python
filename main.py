@@ -30,3 +30,5 @@
 # print(PI)
 # PI = 2
 # print(PI)
+
+print("Text in local repository")
